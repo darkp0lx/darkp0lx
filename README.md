@@ -1,5 +1,6 @@
 ### Hola👋 
 ### Soy Hector Paolo !
+### Frontend Developer React
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/darkp0lx)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barazorda-paolo/)
@@ -10,7 +11,7 @@ Bienvenido a mi perfil github soy Hector Paolo Desarrollador Web.
 <img align="right" alt="img" src="https://darkp0lx.github.io/portfolio/images/perfil.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Cosas en las que he estado trabajando: 
+#### 🌱 cosas que me gustaría aprender: 
 - Backend developer  
 - Aprender mucho mas del desarrollo web en tiempo real
 - Maching learning con JS y TensorFlow
